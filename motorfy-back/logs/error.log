@@ -1,0 +1,235 @@
+2024-05-14 14:21:41:2141 [31merror[39m: [31m"firstName" is required[39m
+2024-05-14 14:23:37:2337 [31merror[39m: [31m"firstName" is required[39m
+2024-05-14 14:24:01:241 [31merror[39m: [31m"lastName" is required[39m
+2024-05-14 14:24:32:2432 [31merror[39m: [31m"email" must be a valid email[39m
+2024-05-14 14:24:39:2439 [31merror[39m: [31mPassword must be at least 8 characters long[39m
+2024-05-14 14:24:52:2452 [31merror[39m: [31mInvalid Password, Must contain Required Charachters[39m
+2024-05-14 14:25:03:253 [31merror[39m: [31mInvalid Password, Must contain Required Charachters[39m
+2024-05-14 14:26:49:2649 [31merror[39m: [31mUser already exists - undefined - /user/register - POST - ::1[39m
+2024-05-14 19:14:43:1443 [31merror[39m: [31mNot found[39m
+2024-05-14 19:15:37:1537 [31merror[39m: [31mNot found[39m
+2024-05-15 12:28:13:2813 [31merror[39m: [31mInvalid Password, Must contain Required Charachters[39m
+2024-05-15 13:50:57:5057 [31merror[39m: [31mNot found[39m
+2024-05-15 13:51:41:5141 [31merror[39m: [31mNot found[39m
+2024-05-15 13:51:57:5157 [31merror[39m: [31mNot found[39m
+2024-05-15 14:02:10:210 [31merror[39m: [31mNot found[39m
+2024-05-15 14:46:52:4652 [31merror[39m: [31mNot found[39m
+2024-05-15 16:10:33:1033 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:11:45:1145 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:13:25:1325 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:13:50:1350 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:14:19:1419 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:14:41:1441 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:15:12:1512 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:15:32:1532 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:15:51:1551 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:16:07:167 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:16:27:1627 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:17:13:1713 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:17:26:1726 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:18:00:180 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:19:29:1929 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:19:51:1951 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:27:02:272 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:27:34:2734 [31merror[39m: [31mNot found[39m
+2024-05-15 16:37:35:3735 [31merror[39m: [31mUser Session expired - undefined - /user/logout - POST - ::1[39m
+2024-05-15 16:38:02:382 [31merror[39m: [31mUser Session expired - undefined - /user/logout - POST - ::1[39m
+2024-05-15 17:58:29:5829 [31merror[39m: [31mUser Session expired - undefined - /user/logout - POST - ::1[39m
+2024-05-16 12:31:49:3149 [31merror[39m: [31mNot found[39m
+2024-05-16 17:03:51:351 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-16 17:04:34:434 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-16 17:05:19:519 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-16 17:05:53:553 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-16 17:54:10:5410 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-16 17:54:20:5420 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-16 17:54:48:5448 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-16 17:59:14:5914 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-16 17:59:21:5921 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-16 17:59:59:5959 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-16 18:01:03:13 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-16 18:01:08:18 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-16 18:10:39:1039 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-16 18:13:34:1334 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-17 10:32:25:3225 [31merror[39m: [31mInvalid parameter - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 10:40:42:4042 [31merror[39m: [31mInvalid parameter - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 10:41:18:4118 [31merror[39m: [31mInvalid parameter - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 10:42:06:426 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 10:46:40:4640 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 10:50:16:5016 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 10:51:54:5154 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 10:55:04:554 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 10:59:18:5918 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 10:59:29:5929 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 11:03:27:327 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 11:04:59:459 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 11:10:29:1029 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 11:12:14:1214 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 11:13:29:1329 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 11:13:50:1350 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 11:14:15:1415 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 11:14:58:1458 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 11:48:45:4845 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 11:49:03:493 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 11:50:04:504 [31merror[39m: [31mUnable to Upload the file - Missing required key 'Bucket' in params[39m
+2024-05-17 11:50:04:504 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 11:53:58:5358 [31merror[39m: [31mError bucket don't exsit - null[39m
+2024-05-17 12:02:00:20 [31merror[39m: [31mUnable to Upload the file - The bucket does not allow ACLs[39m
+2024-05-17 12:02:00:20 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-17 14:30:56:3056 [31merror[39m: [31mNot found[39m
+2024-05-17 14:31:32:3132 [31merror[39m: [31mNot found[39m
+2024-05-17 14:32:06:326 [31merror[39m: [31mNot found[39m
+2024-05-17 14:32:56:3256 [31merror[39m: [31mNot found[39m
+2024-05-17 14:32:59:3259 [31merror[39m: [31mNot found[39m
+2024-05-17 14:33:25:3325 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-17 14:33:59:3359 [31merror[39m: [31mNot found[39m
+2024-05-17 14:34:46:3446 [31merror[39m: [31mNot found[39m
+2024-05-17 14:35:01:351 [31merror[39m: [31mNot found[39m
+2024-05-17 14:35:07:357 [31merror[39m: [31mNot found[39m
+2024-05-17 14:35:22:3522 [31merror[39m: [31mNot found[39m
+2024-05-17 14:36:14:3614 [31merror[39m: [31mNot found[39m
+2024-05-17 14:37:24:3724 [31merror[39m: [31mNot found[39m
+2024-05-17 14:37:37:3737 [31merror[39m: [31mNot found[39m
+2024-05-17 14:38:02:382 [31merror[39m: [31mNot found[39m
+2024-05-17 14:41:32:4132 [31merror[39m: [31mNot found[39m
+2024-05-17 14:42:36:4236 [31merror[39m: [31mNot found[39m
+2024-05-17 14:42:36:4236 [31merror[39m: [31mNot found[39m
+2024-05-17 14:45:31:4531 [31merror[39m: [31mNot found[39m
+2024-05-17 14:45:46:4546 [31merror[39m: [31mNot found[39m
+2024-05-17 14:46:45:4645 [31merror[39m: [31mNot found[39m
+2024-05-17 14:46:58:4658 [31merror[39m: [31mInvalid parameter - undefined - /vehicle/publish - POST - ::1[39m
+2024-05-17 14:47:09:479 [31merror[39m: [31mPlease authenticate - undefined - /vehicle/test - POST - ::1[39m
+2024-05-17 14:47:25:4725 [31merror[39m: [31mPlease authenticate - undefined - /vehicle/test - GET - ::1[39m
+2024-05-17 14:47:37:4737 [31merror[39m: [31mNot found[39m
+2024-05-17 14:48:04:484 [31merror[39m: [31mNot found[39m
+2024-05-17 14:51:40:5140 [31merror[39m: [31mInvalid vehicle type - undefined - /vehicle/options/car - GET - ::1[39m
+2024-05-17 14:55:31:5531 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/Nissan - GET - ::1[39m
+2024-05-17 16:11:27:1127 [31merror[39m: [31mNot found[39m
+2024-05-27 16:53:29:5329 [31merror[39m: [31mNot found[39m
+2024-05-27 16:53:30:5330 [31merror[39m: [31mNot found[39m
+2024-05-27 16:54:01:541 [31merror[39m: [31mNot found[39m
+2024-05-27 16:55:06:556 [31merror[39m: [31mNot found[39m
+2024-05-27 16:55:09:559 [31merror[39m: [31mNot found[39m
+2024-05-27 16:55:13:5513 [31merror[39m: [31mNot found[39m
+2024-05-27 16:55:14:5514 [31merror[39m: [31mNot found[39m
+2024-05-27 16:55:22:5522 [31merror[39m: [31mNot found[39m
+2024-05-27 16:56:09:569 [31merror[39m: [31mNot found[39m
+2024-05-28 21:51:06:516 [31merror[39m: [31mInvalid vehicle type - undefined - /vehicle/options/[object%20Object] - GET - ::1[39m
+2024-05-28 21:51:10:5110 [31merror[39m: [31mInvalid vehicle type - undefined - /vehicle/options/[object%20Object] - GET - ::1[39m
+2024-05-28 21:51:17:5117 [31merror[39m: [31mInvalid vehicle type - undefined - /vehicle/options/[object%20Object] - GET - ::1[39m
+2024-05-28 21:51:57:5157 [31merror[39m: [31mInvalid vehicle type - undefined - /vehicle/options/[object%20Object] - GET - ::1[39m
+2024-05-28 22:07:07:77 [31merror[39m: [31mInvalid vehicle type - undefined - /vehicle/options/undefined - GET - ::1[39m
+2024-05-28 22:13:02:132 [31merror[39m: [31mInvalid vehicle type - undefined - /vehicle/options/undefined - GET - ::1[39m
+2024-05-28 22:20:37:2037 [31merror[39m: [31mInvalid vehicle type - undefined - /vehicle/options/undefined - GET - ::1[39m
+2024-05-28 22:20:49:2049 [31merror[39m: [31mInvalid vehicle type - undefined - /vehicle/options/undefined - GET - ::1[39m
+2024-05-28 22:23:05:235 [31merror[39m: [31mInvalid vehicle type - undefined - /vehicle/options/undefined - GET - ::1[39m
+2024-05-28 22:23:26:2326 [31merror[39m: [31mInvalid vehicle type - undefined - /vehicle/options/undefined - GET - ::1[39m
+2024-05-28 22:23:59:2359 [31merror[39m: [31mInvalid vehicle type - undefined - /vehicle/options/undefined - GET - ::1[39m
+2024-05-28 22:24:52:2452 [31merror[39m: [31mInvalid vehicle type - undefined - /vehicle/options/undefined - GET - ::1[39m
+2024-05-28 22:25:29:2529 [31merror[39m: [31mInvalid vehicle type - undefined - /vehicle/options/undefined - GET - ::1[39m
+2024-05-29 00:09:23:923 [31merror[39m: [31mInvalid vehicle type - undefined - /vehicle/options/undefined - GET - ::1[39m
+2024-05-29 15:02:46:246 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:03:18:318 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:03:39:339 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:03:48:348 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:04:00:40 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:04:14:414 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:04:22:422 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:05:13:513 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:06:08:68 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:06:25:625 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:06:30:630 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Bike/undefined - GET - ::1[39m
+2024-05-29 15:07:06:76 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Bike/undefined - GET - ::1[39m
+2024-05-29 15:07:18:718 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Bike/undefined - GET - ::1[39m
+2024-05-29 15:07:35:735 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Bike/undefined - GET - ::1[39m
+2024-05-29 15:07:39:739 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:09:30:930 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:09:42:942 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:09:45:945 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:10:29:1029 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:10:37:1037 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:10:55:1055 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:12:12:1212 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:12:40:1240 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:12:41:1241 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Bike/undefined - GET - ::1[39m
+2024-05-29 15:12:43:1243 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:12:47:1247 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:12:48:1248 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:12:55:1255 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:13:28:1328 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:13:32:1332 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/undefined - GET - ::1[39m
+2024-05-29 15:13:39:1339 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Bike/undefined - GET - ::1[39m
+2024-05-29 15:13:42:1342 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/Honda - GET - ::1[39m
+2024-05-29 15:14:55:1455 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/Honda - GET - ::1[39m
+2024-05-29 15:15:15:1515 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Bike/Toyota - GET - ::1[39m
+2024-05-29 15:15:21:1521 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Bike/Toyota - GET - ::1[39m
+2024-05-29 15:16:08:168 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Bike/Toyota - GET - ::1[39m
+2024-05-29 17:49:22:4922 [31merror[39m: [31mNot found[39m
+2024-05-29 17:49:57:4957 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 17:51:12:5112 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 17:56:21:5621 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:04:54:454 [31merror[39m: [31mPlease authenticate - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:07:01:71 [31merror[39m: [31mPlease authenticate - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:07:10:710 [31merror[39m: [31mPlease authenticate - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:08:19:819 [31merror[39m: [31mPlease authenticate - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:09:50:950 [31merror[39m: [31mPlease authenticate - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:10:02:102 [31merror[39m: [31mPlease authenticate - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:13:11:1311 [31merror[39m: [31mPlease authenticate - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:14:08:148 [31merror[39m: [31mPlease authenticate - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:17:58:1758 [31merror[39m: [31mPlease authenticate - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:18:51:1851 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-05-29 18:18:51:1851 [31merror[39m: [31mPlease authenticate - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:25:42:2542 [31merror[39m: [31mUser Session expired - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:26:06:266 [31merror[39m: [31mUser Session expired - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:26:17:2617 [31merror[39m: [31mUser Session expired - undefined - /user/logout - POST - ::1[39m
+2024-05-29 18:26:19:2619 [31merror[39m: [31mUser Session expired - undefined - /user/logout - POST - ::1[39m
+2024-05-29 18:35:06:356 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:35:44:3544 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:37:07:377 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:39:56:3956 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:42:36:4236 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 18:51:54:5154 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 19:09:16:916 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 19:10:31:1031 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 19:12:27:1227 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 19:15:02:152 [31merror[39m: [31mPlease authenticate - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 19:18:16:1816 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 19:20:54:2054 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 19:21:47:2147 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 19:25:06:256 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 19:25:48:2548 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 19:25:50:2550 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 19:26:51:2651 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 19:28:17:2817 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-29 19:29:00:290 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-31 10:09:36:936 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-05-31 10:09:56:956 [31merror[39m: [31mUnalbe to access this file - The "path" argument must be of type string or an instance of Buffer or URL. Received undefined[39m
+2024-05-31 10:09:56:956 [31merror[39m: [31mFailed to publish advertisement - undefined - /advertisement/publish - POST - ::1[39m
+2024-06-04 14:30:21:3021 [31merror[39m: [31mNot found[39m
+2024-06-04 17:49:25:4925 [31merror[39m: [31mNot found[39m
+2024-06-04 17:49:40:4940 [31merror[39m: [31mNot found[39m
+2024-06-04 17:49:44:4944 [31merror[39m: [31mNot found[39m
+2024-06-04 17:50:12:5012 [31merror[39m: [31mNot found[39m
+2024-06-04 17:50:13:5013 [31merror[39m: [31mNot found[39m
+2024-06-04 17:50:31:5031 [31merror[39m: [31mNot found[39m
+2024-06-05 12:03:40:340 [31merror[39m: [31munable to connect - querySrv ECONNREFUSED _mongodb._tcp.main-cluster.9hxd7qd.mongodb.net[39m
+2024-06-05 12:03:52:352 [31merror[39m: [31munable to connect - querySrv ECONNREFUSED _mongodb._tcp.main-cluster.9hxd7qd.mongodb.net[39m
+2024-06-11 09:17:54:1754 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Bike/Toyota - GET - ::1[39m
+2024-06-11 09:18:02:182 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Bike/Nissan - GET - ::1[39m
+2024-06-11 09:31:30:3130 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/Honda - GET - ::1[39m
+2024-06-11 09:53:25:5325 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Bike/Nissan - GET - ::1[39m
+2024-06-11 09:54:15:5415 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Bike/Toyota - GET - ::1[39m
+2024-06-13 06:20:32:2032 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Bike/Toyota - GET - ::1[39m
+2024-06-13 06:20:36:2036 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Car/Honda - GET - ::1[39m
+2024-06-13 07:36:23:3623 [31merror[39m: [31mInvalid vehicle make - undefined - /vehicle/options/Bike/Toyota - GET - ::1[39m
+2024-06-15 18:04:29:429 [31merror[39m: [31mInvalid Username or Password - undefined - /user/login - POST - ::1[39m
+2024-06-15 18:07:48:748 [31merror[39m: [31mPlease authenticate - undefined - /user/logout - POST - ::1[39m
+2024-06-15 18:15:20:1520 [31merror[39m: [31mNot found[39m
+2024-06-15 18:15:32:1532 [31merror[39m: [31mEmail is required[39m
+2024-06-15 18:16:02:162 [31merror[39m: [31m"email" must be a valid email[39m
+2024-06-15 18:16:21:1621 [31merror[39m: [31m"email" must be a valid email[39m
+2024-06-15 18:16:40:1640 [31merror[39m: [31mInvalid Username or Password - undefined - /user/login - POST - ::1[39m
+2024-06-15 18:16:57:1657 [31merror[39m: [31mInvalid Username or Password - undefined - /user/login - POST - ::1[39m
+2024-06-15 18:17:46:1746 [31merror[39m: [31mInvalid Username or Password - undefined - /user/login - POST - ::1[39m
+2024-06-18 11:18:18:1818 [31merror[39m: [31mNot found[39m
+2024-06-18 11:18:42:1842 [31merror[39m: [31mNot found[39m
+2024-06-18 11:51:54:5154 [31merror[39m: [31mInvalid parameter - undefined - /area - POST - ::1[39m
